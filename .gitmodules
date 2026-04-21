@@ -1,0 +1,12 @@
+[submodule "isaac_ros_nvblox"]
+	path = isaac_ros_nvblox
+	url = ./isaac_ros_nvblox
+[submodule "point_lio_ros2"]
+	path = point_lio_ros2
+	url = ./point_lio_ros2
+[submodule "sensehub_bringup"]
+	path = sensehub_bringup
+	url = ./sensehub_bringup/
+[submodule "unilidar_sdk2"]
+	path = unilidar_sdk2
+	url = ./unilidar_sdk2/

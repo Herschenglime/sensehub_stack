@@ -9,4 +9,4 @@
 	url = https://github.com/Herschenglime/sensehub_bringup
 [submodule "unilidar_sdk2"]
 	path = unilidar_sdk2
-	url = https://github.com/unitreerobotics/unilidar_sdk2
+	url = https://github.com/Herschenglime/unilidar_sdk2
